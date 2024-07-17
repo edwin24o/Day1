@@ -28,3 +28,25 @@ print('='*50)
 
 # Task one
 
+variable_a = str("Hello, World!")
+print(variable_a)
+
+variable_b = int(23)
+print(variable_b)
+
+variable_c = float(3.14)
+print(variable_c)
+
+variable_d = bool(True)
+print(variable_d)
+
+
+# 3rd question
+
+# Task one
+
+bread = 2.75
+peanut_butter= 4.50
+jelly = 3.23
+
+print(bread + peanut_butter + jelly)
